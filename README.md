@@ -1,2 +1,13 @@
 # POWER-BI_project3_24.08.2025
 This is a powerful SQL project – “Blinkit India's last minute app dataset”
+# Business Requirement
+
+To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
+
+## KPI’s Requirements
+
+- **Total Sales:** The overall revenue generated from all items sold.
+- **Average Sales:** The average revenue per sale.
+- **Number of Items:** The total count of different items sold.
+- **Average Rating:** The average customer rating for items sold.
+
