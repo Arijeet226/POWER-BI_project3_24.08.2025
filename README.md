@@ -85,7 +85,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 These insights can help Blinkit identify core products, high-performing outlets/locations, and areas for improvement in sales strategy and customer engagement.
 
 **Screenshot of dashboard:**  
-![Preview of dashboard](https://github.com/Arijeet226/POWER-BI_project1_28.07.2025/blob/c334ad40825194c946c061c4001fcb5bae18da9a/Screenshot%202025-07-28%20200853.png)
+![Preview of dashboard](https://github.com/Arijeet226/POWER-BI_project3_24.08.2025/blob/591d96b0d1bf5e434b3711cab2c4daf8c1ab8ecd/Screenshot%202025-08-24%20115833.png)
 
 
 
