@@ -46,6 +46,46 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 - **Objective:** Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 - **Chart Type:** Matrix Card
 
----
+# Key Insights from Blinkit Dashboard
+
+## Total Sales and Item Data
+- Blinkit achieved **$1.20M in total sales** with **8,523 items sold**.
+- The average sales per transaction is **$141**.
+- The average customer rating is **3.9**, indicating overall decent customer satisfaction.
+
+## Fat Content Contribution
+- Items with **regular fat content accounted for the majority of sales ($776.32K)** compared to low fat ($425.36K).
+- This suggests higher consumer preference or availability for regular fat products.
+
+## Item Type Performance
+- The top-selling categories are **Fruits and Snack Foods** (each about $0.18M).
+- Followed by **Household items ($0.14M)** and **Frozen Foods ($0.12M)**.
+- These are the major revenue drivers for Blinkit.
+
+## Outlet Establishment Trend
+- Sales show a general increase from **$78K in 2012** to a peak of **$205K in 2018**.
+- Then a decline and stabilization around **$130K from 2020 onwards**.
+- This may signal market saturation or changes in operation strategy.
+
+## Outlet Size Impact
+- **High outlet size dominates sales ($507.90K)** compared to medium ($248.99K) and small outlets ($444.79K).
+- Large/outlet stores are crucial for maximizing sales.
+
+## Outlet Location Distribution
+- **Tier 3 locations generated the highest sales ($472.13K)**.
+- Followed by Tier 2 ($393.15K) and Tier 1 ($336.40K).
+- This indicates stronger market penetration or demand in Tier 3 cities.
+
+## Outlet Type Breakdown
+- **Supermarket Type 1 leads with $787.55K sales and 5,577 items sold**.
+- Followed by Grocery Stores ($151.94K, 1,083 items).
+- Average sales and ratings are consistent across outlet types (avg rating ~3.9, avg sales ~$140-$142).
+- Grocery Stores have higher item visibility (0.10), which could inform strategic expansion or marketing focus.
+
+These insights can help Blinkit identify core products, high-performing outlets/locations, and areas for improvement in sales strategy and customer engagement.
+
+**Screenshot of dashboard:**  
+![Preview of dashboard](https://github.com/Arijeet226/POWER-BI_project1_28.07.2025/blob/c334ad40825194c946c061c4001fcb5bae18da9a/Screenshot%202025-07-28%20200853.png)
+
 
 
